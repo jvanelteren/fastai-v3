@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1LrcOW8N1wHGiiQVJHOWsqSipH6SQh9M1'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1C4-599sntLTKiE7gHubUBJuyEz9upRCr'
 export_file_name = 'export.pkl'
 
 classes = ['alpine sea holly',
